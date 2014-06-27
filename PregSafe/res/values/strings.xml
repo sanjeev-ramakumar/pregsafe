@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">PregSafe</string>
+    <string name="home_desc">Is your product pregnancy safe?</string>
+    <string name="scan_barcode">Scan barcode</string>
+    
+</resources>
