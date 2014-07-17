@@ -6,5 +6,14 @@
     <string name="home_advantage1">Enter a product</string>
 	<string name="home_advantage2">Find out if its safe</string>
 	<string name="home_advantage3">See recommended alternatives</string>
+
+	<string name="product_details">Product Details</string>
+    <string name="product_safe">SAFE</string>
+    <string name="product_not_safe">NOT SAFE</string>
+    <string name="product_desc">This is where the description of the product goes.</string>
+    <string name="product_ingredients">Product Ingredients</string>
+    <string name="product_ingredient1">Product Ingredient 1</string>
+    <string name="product_ingredient2">Product Ingredient 2</string>
+    <string name="product_ingredient3">Product Ingredient 3</string>
 	
 </resources>
